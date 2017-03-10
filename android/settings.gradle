@@ -1,0 +1,3 @@
+rootProject.name = 'oldku'
+
+include ':app'
