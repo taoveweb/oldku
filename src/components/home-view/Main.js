@@ -37,6 +37,7 @@ class Main extends Component {
     return (
       <View style={styles.container}>
         {this.renderLoading()}
+        <View><Text>黄家金</Text></View>
         <ScrollView style={styles.list}>
           {this.renderList()}
         </ScrollView>
